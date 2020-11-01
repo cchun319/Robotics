@@ -1,4 +1,4 @@
-# MAZE VISUALIZATION Projects
+# MAZE Flying Projects
 * [1.Depth First Search](#depth-first-search)
 * [1.Breadth First Search](#breadth-first-search)
 
